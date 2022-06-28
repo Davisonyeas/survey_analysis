@@ -48,8 +48,6 @@ jupyter-client==7.3.4
 jupyter-core==4.10.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.1
-keras==2.9.0
-Keras-Preprocessing==1.1.2
 kiwisolver==1.4.3
 libclang==14.0.1
 Markdown==3.3.7
@@ -64,7 +62,6 @@ nest-asyncio==1.5.5
 notebook==6.4.12
 numpy==1.23.0
 oauthlib==3.2.0
-opencv-python==4.6.0.66
 openpyxl==3.0.10
 opt-einsum==3.3.0
 packaging==21.3
@@ -106,12 +103,6 @@ soupsieve==2.3.2.post1
 stack-data==0.3.0
 streamlit==1.10.0
 tenacity==8.0.1
-tensorboard==2.9.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.1
-tensorflow-estimator==2.9.0
-tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
 terminado==0.15.0
 tinycss2==1.1.1
